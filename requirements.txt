@@ -1,0 +1,11 @@
+fastapi[all]
+pydantic
+uvicorn
+gunicorn
+pytz
+requests
+requests[socks]
+pysocks
+bs4
+tenacity
+gufo-ping

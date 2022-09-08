@@ -1,0 +1,14 @@
+*.db
+*.db-wal
+*.db-shm
+*.scannerwork
+*.log
+*.cpy
+*.vscode
+*__pycache__
+**/*.JSON
+**/*.log
+**/*.HTML
+**/*.STRING
+env
+*.json
